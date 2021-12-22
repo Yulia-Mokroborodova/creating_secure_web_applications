@@ -6,8 +6,10 @@
 ![image](https://user-images.githubusercontent.com/82168526/146243993-f962c682-3052-40cb-8008-0940bb3df3c9.png)
 
 8. Обнаружение SQL инъекции
-При вводе ') в фильтр, в браузере выводится сообщение об ошибке и запрос к базе данных
-![image](https://user-images.githubusercontent.com/82168526/146244103-48183326-514a-447f-b4ae-6ecd8ef41887.png)
+При вводе ') в фильтр выводится сообщение об ошибке и запрос к базе данных
+![image](https://user-images.githubusercontent.com/90596797/147047474-c9e866cd-32ca-4150-8a11-fb6d0f499963.png)
+
+
 
 9.1. Обход установленного фильтра
 ![image](https://user-images.githubusercontent.com/82168526/146244120-fa631d05-9899-48c1-9cdd-2422fd31aab0.png)
