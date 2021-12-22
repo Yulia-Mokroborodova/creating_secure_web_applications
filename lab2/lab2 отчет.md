@@ -22,16 +22,10 @@
 ![image](https://user-images.githubusercontent.com/82168526/146244157-80ed99d1-130e-4a12-8a08-a90eb4130b5b.png)
 
 10. Исправление уязвимости
+![image](https://user-images.githubusercontent.com/90596797/147051589-25bc193c-6332-41e6-8386-dfd151f4bc3f.png)
+
 
 10.1 Исправление уязвимости с помощью параметризации запроса:
 
-![image](https://user-images.githubusercontent.com/82168526/146245039-fd80ad0e-7de3-4904-b402-c611ed01fde2.png)
-
-![image](https://user-images.githubusercontent.com/82168526/146244180-986ca404-7e3e-482d-ae7d-0f9734d429e9.png)
-
-![image](https://user-images.githubusercontent.com/82168526/146244194-e6aa3b13-c840-4de5-b012-5853587504ef.png)
-
-![image](https://user-images.githubusercontent.com/82168526/146244215-0486c01d-96d4-4d17-ac5d-8cf5256d84ed.png)
-
-![image](https://user-images.githubusercontent.com/82168526/146244227-719d0089-8018-4f45-a777-cf8ca160567d.png)
+![image](https://user-images.githubusercontent.com/90596797/147051742-768fe71d-49ee-46d4-bd55-36129f2c9eaf.png)
 
