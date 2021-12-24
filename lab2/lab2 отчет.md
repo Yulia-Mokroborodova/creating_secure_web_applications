@@ -3,7 +3,7 @@
 > ## Задание 1
 
 1. Список книг и авторов
-![image](https://user-images.githubusercontent.com/90596797/147355425-15d310e5-d326-4198-ab82-bb9278012092.png)
+![image](https://user-images.githubusercontent.com/90596797/147355811-3f02416b-a599-43fd-9baf-864a6fe9a2ef.png)
 
 8. Обнаружение SQL инъекции
 При вводе ') в фильтр выводится сообщение об ошибке и запрос к базе данных
@@ -23,7 +23,7 @@
 ![image](https://user-images.githubusercontent.com/90596797/147355624-1e387872-97c3-42b1-86dc-a489993644fc.png)
 
 10. Исправление уязвимости
-11. 
+ 
 ![image](https://user-images.githubusercontent.com/90596797/147051589-25bc193c-6332-41e6-8386-dfd151f4bc3f.png)
 
 
