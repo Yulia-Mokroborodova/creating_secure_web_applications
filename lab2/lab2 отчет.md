@@ -19,9 +19,11 @@
 ![image](https://user-images.githubusercontent.com/90596797/147355607-bcfb4f04-86f3-4f3f-9139-43567a378370.png)
 
 9.3. Похищение пароля пользователя
+
 ![image](https://user-images.githubusercontent.com/90596797/147355624-1e387872-97c3-42b1-86dc-a489993644fc.png)
 
 10. Исправление уязвимости
+11. 
 ![image](https://user-images.githubusercontent.com/90596797/147051589-25bc193c-6332-41e6-8386-dfd151f4bc3f.png)
 
 
